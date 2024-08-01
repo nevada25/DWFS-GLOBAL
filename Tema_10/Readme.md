@@ -6,5 +6,5 @@ El test, que debe basarse en los modelos presentados en clase, tratará de medir
 
 ## Entrega
 
-Crea una carpeta con tu nombre y apellidos dentro de ``Tema_10``. Deberás incluir:
+Dentro del repositorio de ejercicios de tu clase (encontrarás el enlace en el Aula Virtual), crea una carpeta con tu nombre y apellidos dentro de ``Tema_10``. Deberás incluir:
 -  PDF con el test de usabilidad construido.

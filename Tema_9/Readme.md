@@ -43,6 +43,6 @@ Recuerda hacer uso de la [documentación](https://www.elastic.co/guide/en/elasti
 
 ## 2. Entrega
 
-Crea una carpeta con tu nombre y apellidos dentro de ``Tema_9``. Deberás incluir :
+Dentro del repositorio de ejercicios de tu clase (encontrarás el enlace en el Aula Virtual), crea una carpeta con tu nombre y apellidos dentro de ``Tema_9``. Deberás incluir :
 
 - Un archivo ``Entrega_ES.md`` con los comandos cURL obtenidos a través de Postman.
