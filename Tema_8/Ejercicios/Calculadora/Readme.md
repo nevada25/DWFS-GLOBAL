@@ -15,4 +15,5 @@ Además, se recomienda hacer uso de estas guías para poder mapear relaciones 1-
 
 ## Entrega
 
+Dentro del repositorio de ejercicios de tu clase (encontrarás el enlace en el Aula Virtual), crea una carpeta llamada `Calculadora`.
 La entrega consiste en el código de la implementación (únicamente la carpeta src y archivo pom.xml). Utiliza H2 como base de datos.

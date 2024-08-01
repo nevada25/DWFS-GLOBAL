@@ -558,6 +558,7 @@ Por otro lado, si el profesor (editor) envía un mensaje privado a un alumno, so
 
 ## Parte IV: Entrega
 
+Dentro del repositorio de ejercicios de tu clase (encontrarás el enlace en el Aula Virtual), crea una carpeta llamada `Edsu`.
 La entrega del ejercicio consiste en:
 
 - El código fuente del microservicio suscriptor que has desarrollado.
