@@ -1,10 +1,19 @@
-# Consultas con Elasticsearch
+# Tema 9: Lucene y Elasticsearch
+
+
+## Repositorios con código de apoyo
+
+| Repositorio | Descripción | Otros
+|-----------|--|--|
+| 📦 [Unir-Stock: Microservicio catalogo con Elasticsearch](https://github.com/UnirCs/back-end-inventory-products-elasticsearch) | Este microservicio está conectado a un clúster de Elasticsearch y expone, a través de una API REST, una serie de productos del inventario de una tienda. |
+| 👨‍💼 [Unir-Employees: Facetas con Elasticsearch](https://github.com/UnirCs/back-end-facets) | Este microservicio está conectado a un clúster de Elasticsearch y expone, a través de una API REST, la posibilidad de operar con Facetas. |
+| ⚙️ [Colección Postman de operaciones con Elasticsearch](https://github.com/UnirCs/elasticsearch-operations-postman) | Colección de Postman que contiene ejemplos de peticiones que se pueden realizar de forma nativa contra un clúster de Elasticsearch. |
+
+## Ejercicio: Consultas con la API de Elasticsearch
 
 Con este ejercicio trataremos de asimilar los conceptos estudiados en clase sobre los tipos de datos y operaciones en Elasticsearch.
 Deberás crear un clúster de prueba tal como se indica en [estas instrucciones](https://github.com/UnirCs/elasticsearch-operations-postman) e insertar los datos de prueba que se presentan. Encontrarás también una colección de Postman que puede ser de gran ayuda a la hora de realizar el ejercicio y trabajar con Elasticsearch en general.
 Recuerda hacer uso de la [documentación](https://www.elastic.co/guide/en/elasticsearch/reference/7.10/query-dsl.html).
-
-## 1. Ejercicio
 
 <b> Para cada operación solicitada, incluye el comando cURL que se obtiene de Postman </b> en un archivo Entrega_ES.md
 
