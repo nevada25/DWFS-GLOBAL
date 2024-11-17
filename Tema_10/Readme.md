@@ -1,4 +1,14 @@
-# Creación de un test de usabilidad
+# Tema 10: Usabilidad en la web y plataformas de pago 
+
+## Repositorios con código de apoyo
+
+| Repositorio | Descripción | Otros
+|-----------|--|--|
+|🍕 [Unir-Pizza: Front-End](https://github.com/UnirCs/front-end-pizza) |  Aplicación de pedidos de pizza. El Front-End está realizado con React. |
+|🍕 [Unir-Pizza: Microservicio catálogo](https://github.com/UnirCs/back-end-pizza-catalogue) | Aplicación de pedidos de pizza.Este microservicio conecta con un clúster de Elasticsearch que contiene información sobre pizzas e ingredientes. Sirve la información a través de una API REST. |
+|🍕 [Unir-Pizza: Microservicio operador](https://github.com/UnirCs/back-end-pizza-orders) | Aplicación de pedidos de pizza.Este microservicio conecta con el microservicio catálogo para obtener información sin acceder directamente a esa base de información. Además, se encuentra conectado a una base de datos en memoria que registra los pedidos realizados. |
+
+## Ejercicio 1: Creación de un test de usabilidad
 
 En esta actividad realizaremos un test de usabilidad para la aplicación que has construido en la primera actividad individual de la asignatura.
 
