@@ -21,9 +21,11 @@ async function fetchSincrono() {
     return fact;
 }
 
-console.log("Ejecutando funcion fetchSincrono");
-
 (async () => {
+
+    console.log("Ejecutando funcion fetchSincrono");
     let factSincrono = await fetchSincrono();
     console.log(factSincrono);
+    console.log("fetchSincrono ha terminado");
+
 })();
