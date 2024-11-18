@@ -5,6 +5,8 @@ saludo.from = "Obi-Wan Kenobi";
 
 console.log(saludo.name);
 console.log(saludo.from);
+console.log(saludo.to);
+
 saludo();
 
 saludo = () => {
@@ -28,6 +30,7 @@ const isPar = (n, parCallBack, imparCallback) => {
     }
 }
 isPar(4, () => console.log("El numero es par"));
+//isPar(5, () => console.log("El numero es par"));
 
 const parCallBack = () => console.log("El numero es par");
 const imparCallBack = () => console.log("El numero es impar");

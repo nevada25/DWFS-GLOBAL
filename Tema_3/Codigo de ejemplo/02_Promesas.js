@@ -29,7 +29,9 @@ let promesa1 = new Promise(function (resolve, reject) {
 const callbackResolve = (value) => console.log("OK " + value);
 const callbackReject = (value) => console.log("KO " + value);
 
-promesa1.then(callbackResolve, callbackReject);
+let resultado = promesa1.then(callbackResolve, callbackReject);
 console.log("haciendo cosas...");
 console.log("haciendo cosas...");
 console.log("haciendo cosas...");
+
+setTimeout(() => console.log(resultado), 500);

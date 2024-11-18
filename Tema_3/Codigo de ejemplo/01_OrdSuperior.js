@@ -7,6 +7,7 @@ let islas = ["Canarias", "Baleares", "Corcega", "Cerdeña"];
 
 /**
  * Metodo forEach (callback) - Recorrer elementos
+ * Mas Info: https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
  * El metodo tiene uno o dos parametros
  *      Elemento de la coleccion
  *      Indice para poder recorrerlo (opcional, undefined si no se indica)
@@ -17,6 +18,7 @@ islas.forEach((element, index) => {console.log(element + " index " + index)});
 
 /**
  * Metodo map (callback) - Modificar elementos
+ * Mas Info: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
  * El metodo tiene un parametro
  *      Funcion a aplicar sobre cada elemento de la coleccion
  */
@@ -27,6 +29,7 @@ doubles.forEach((element, index) => {console.log(element + " index " + index)});
 
 /**
  * Metodo filter (callback) - Filtrar elementos
+ * Mas Info: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
  * El metodo tiene un parametro
  *      Funcion a evaluar sobre cada elemento. Se eliminan los elementos que no cumplen el filtro
  */
@@ -37,6 +40,7 @@ doubles.forEach((element, index) => {console.log(element + " index " + index)});
 
  /**
  * Metodo reduce (callback) - Reducir Arrays
+ * Mas Info: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
  * El metodo tiene un parametro callback compuesto por:
  *      Funcion reductora. Dos argumentos
  *          Acumulador
