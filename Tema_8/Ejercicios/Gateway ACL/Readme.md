@@ -30,6 +30,7 @@ Revisa el [código de apoyo](https://github.com/UnirCs/back-end-cloud-gateway-fi
 
 - Implementa un ``ServerHttpRequestDecorator`` para traducir una ``GatewayRequest`` de POST a PUT.
 - Implementa un ``ServerHttpRequestDecorator`` para traducir una ``GatewayRequest`` de POST a DELETE.
+- Implementa un ``ServerHttpRequestDecorator`` para traducir una ``GatewayRequest`` de POST a PATCH.
 
 ## Información adicional
 
