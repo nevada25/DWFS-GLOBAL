@@ -1,4 +1,4 @@
-## Ejercicio 2: API para Plataforma de Delivery de Comida
+## API para Plataforma de Delivery de Comida
 
 ### Descripción
 Diseña una API REST para una plataforma de delivery de comida. La API debe gestionar la interacción entre usuarios, restaurantes y el sistema de pagos, permitiendo un flujo eficiente desde la búsqueda de restaurantes hasta la confirmación del pedido.
